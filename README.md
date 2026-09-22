@@ -48,7 +48,7 @@ I operate at the intersection of curiosity and controlled chaos. As a **Red Team
   <a href="mailto:redteamuser@proton.me">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-00FF9C?style=for-the-badge&logo=protonmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="[https://linkedin.com/in/your-profile](https://mu.linkedin.com/in/prajesh-rajcoomar-140a693b5)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
