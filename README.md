@@ -3,7 +3,7 @@
 # 🕶️ The-Psypher
 *Adversarial Simulation & Infrastructure Hardening*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=500&lines=Red+Teamer+%7C+Pentester;Offensive+Security+Enthusiast;Engineering+Resilience+Through+Exploitation;Always+Learning+Always+Evolving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=500&lines=Red+Teamer+%7C+Pentester;Offensive+Security+Enthusiast;Engineering+Resilience+through+Exploitation;Always+Learning+Always+Evolving" />
 
 ---
 
